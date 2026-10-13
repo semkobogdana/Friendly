@@ -1,0 +1,14 @@
+C:\Users\Mouse\OneDrive\Desktop\Friendly\bin\Debug\net10.0\Friendly.exe
+C:\Users\Mouse\OneDrive\Desktop\Friendly\bin\Debug\net10.0\Friendly.deps.json
+C:\Users\Mouse\OneDrive\Desktop\Friendly\bin\Debug\net10.0\Friendly.runtimeconfig.json
+C:\Users\Mouse\OneDrive\Desktop\Friendly\bin\Debug\net10.0\Friendly.dll
+C:\Users\Mouse\OneDrive\Desktop\Friendly\bin\Debug\net10.0\Friendly.pdb
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\Friendly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\Friendly.AssemblyInfoInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\Friendly.AssemblyInfo.cs
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\Friendly.csproj.CoreCompileInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\Friendly.dll
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\refint\Friendly.dll
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\Friendly.pdb
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\Friendly.genruntimeconfig.cache
+C:\Users\Mouse\OneDrive\Desktop\Friendly\obj\Debug\net10.0\ref\Friendly.dll
